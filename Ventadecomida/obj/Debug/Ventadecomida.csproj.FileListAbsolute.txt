@@ -1,0 +1,12 @@
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.csprojResolveAssemblyReference.cache
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.Form1.resources
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.MDIParent1.resources
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.Properties.Resources.resources
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.csproj.GenerateResource.Cache
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.csproj.CoreCompileInputs.cache
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\bin\Debug\Ventadecomida.exe.config
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\bin\Debug\Ventadecomida.exe
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\bin\Debug\Ventadecomida.pdb
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.exe
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.pdb
+c:\users\andre\source\repos\Ventadecomida\Ventadecomida\obj\Debug\Ventadecomida.Form2.resources
